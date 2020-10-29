@@ -15,12 +15,12 @@ Specifying `--color` forces ANSI Color on where as `--nocolor` forces it off.  I
 
 ## Version
 
-<!-- $Id$ -->
+<!-- $Id:$ -->
 
-$Revision$<br>$Tags$
+$Revision:$<br>$Tags:$
 
 ## Copyright
 
 &copy; 2020 Bion Pohl/Omega Pudding Software Some Rights Reserved
 
-$Author$<br>$Email$
+$Author:$<br>$Email:$
