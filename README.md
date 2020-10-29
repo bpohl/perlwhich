@@ -15,9 +15,9 @@ Specifying `--color` forces ANSI Color on where as `--nocolor` forces it off.  I
 
 ## Version
 
-<!-- $Id:$ -->
+<!-- $Id: f370f71901c280be27223453b5f51f6dbbeca8fd$ -->
 
-$Revision:$<br>$Tags:$
+$Revision: Wed Oct 28 19:49:07 2020 -0500 on branch main$<br>$Tags: v1.0.0$
 
 ## Copyright
 
